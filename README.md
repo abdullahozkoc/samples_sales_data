@@ -42,15 +42,15 @@ Veri seti, `DEALSIZE` (Anlaşma Büyüklüğü) ile belirlenen net bir kâr marj
   * **Medium (Orta) Anlaşmalar:** Ortalama **%24.7 kâr** marjı uygulanır.
   * **Small (Küçük) Anlaşmalar:** Neredeyse sıfır kârla (%1.9) taban fiyattan satılır.
 
- \#\#\# 2. BulgU: "Classic Cars" Kategorisi Pazarı Domine Ediyor
+ ### 2. BulgU: "Classic Cars" Kategorisi Pazarı Domine Ediyor
 
 Ciroya göre en güçlü ürün grubu açık ara **Classic Cars (Klasik Arabalar)** olup, toplamda yaklaşık 3.9 Milyon $ciro üretmiştir. Bu, en yakın rakibi olan Vintage Cars (1.9M$) kategorisinin iki katından fazladır.
 
- \#\#\# 3. BulgU: ABD Pazarı, Cironun Ana Kaynağı
+ ### 3. BulgU: ABD Pazarı, Cironun Ana Kaynağı
 
 Coğrafi olarak, cironun ezici bir çoğunluğu (3.6M $) **ABD** pazarından gelmektedir. İkinci sırada İspanya (1.2M $) ve üçüncü sırada Fransa (1.1M $) bulunmaktadır.
 
- \#\#\# 4. BulgU: Satış Trendi (ve 2005 Veri Uyarısı)
+ ### 4. BulgU: Satış Trendi (ve 2005 Veri Uyarısı)
 
 Yıllık satışlar 2003'ten 2004'e önemli bir artış göstermiştir. Ancak 2005 yılındaki keskin düşüş, veri setinin 2005 yılının tamamını değil, yalnızca bir kısmını (muhtemelen ilk çeyrek veya ilk 5 ay) içerdiğini göstermektedir. Bu nedenle yıllık karşılaştırmalarda 2005 yılı dikkatli yorumlanmalıdır.
 
